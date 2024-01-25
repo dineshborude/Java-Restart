@@ -14,14 +14,23 @@ public class Theory {
         return framework;
     }
 
+    public static String collectionFramework() {
+
+        return "Collection Framework is Java API, Which provides architecture to store and manipulate group of objects";
+
+//        return collection + framework ;
+//        return framework;
+
+
+
+    }
+
     public static void main(String[] args) {
 
 
-        System.out.println(defineCollection());
+        System.out.println("Collection : "+defineCollection());
 
-
-
-
+        System.out.println("Collection Framework : " +collectionFramework());
 
     }
 
