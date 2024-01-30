@@ -3,7 +3,7 @@ package com.collections.practise;
 public class ReverseString {
 
   static String name = "Danny";
-   static String reverse = "";
+   static char
 
     public static void main(String[] args) {
 
