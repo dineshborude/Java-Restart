@@ -17,8 +17,8 @@ public class CountOddEven {
             }
         }
 
-       System.out.println(oddCount);
-       System.out.println(evenCount);
+       System.out.println(oddCount +" " +evenCount);
+
 
     }
 
