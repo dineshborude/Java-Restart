@@ -10,7 +10,6 @@ public class AreYouPlayingBanjo {
             return name + " does not play banjo";
         }
     }
-
     public static void main(String[] args) {
         System.out.println(banjoBajao("itika"));
     }
