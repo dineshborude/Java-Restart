@@ -14,6 +14,8 @@ public class FindNeedleInTrash {
                 System.out.println("Found Needle at " +i);
 
             }
+
+
             else {
                 System.out.println("NOT FOUND");
             }
